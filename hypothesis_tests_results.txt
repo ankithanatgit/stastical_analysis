@@ -1,0 +1,7 @@
+Hypothesis Test Results
+H0: Marketing spend has no impact on sales
+H1: Marketing spend impacts sales
+
+Correlation between Marketing Spend and Sales: 0.98
+p-value: 0.01
+Conclusion: Reject Null Hypothesis
